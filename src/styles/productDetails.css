@@ -1,0 +1,23 @@
+.detail-info {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 25px;
+  }
+  .img-card img {
+    width: 250px;
+    height: 250px;
+  }
+  .product-detail{
+    width: 50vw;
+  }
+  .detail-title {
+    margin: 20px 0;
+  }
+  .modal-price {
+    color: #0dc90d !important;
+  }
+  .modal-desc {
+    font-weight: 300;
+    line-height: 2;
+  }

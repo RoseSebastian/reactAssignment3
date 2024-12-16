@@ -1,0 +1,27 @@
+.productImg{
+    margin-top: 15px;
+    object-fit: contain;
+    height: 200px;
+}
+.productTitle{
+    display: -webkit-box;
+    line-clamp: 3;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    height: 75px;
+}
+.productPrice{
+   color: #0dc90d !important;
+}
+.productDesc{
+    display: -webkit-box;
+    line-clamp: 5;
+    -webkit-line-clamp: 5;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    height: 120px;
+}
+.btn-warning{
+    margin-right: 2px;
+}
